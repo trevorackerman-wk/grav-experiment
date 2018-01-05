@@ -1,0 +1,11 @@
+email: trevor.ackerman@workiva.com
+fullname: 'Trevor Ackerman'
+title: 'Cookie Monster'
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$yHt2VW5mTGKJ7Pj5jPy6t.4lA3MaKgZkaQwg97m67Nuo/NMrFngR2
